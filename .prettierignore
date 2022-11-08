@@ -1,0 +1,20 @@
+node_modules/
+"editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "vue",
+    "javascriptreact",
+    "html",
+    "json"
+  ],
+  "files.eol": "\n",
+  "prettier.requireConfig": true,
+  "explorer.confirmDelete": false,
+  "prettier.enableDebugLogs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.fontSize": 15

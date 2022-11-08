@@ -1,0 +1,9 @@
+module.exports = require('./authService');
+module.exports = require('./userService');
+module.exports = require('./cartService');
+module.exports = require('./categoryService');
+module.exports = require('./productService');
+module.exports = require('./orderService');
+module.exports = require('./offerService');
+module.exports = require('./storeService');
+module.exports = require('./searchService');

@@ -1,0 +1,9 @@
+module.exports = require('./authRoute');
+module.exports = require('./userRoute');
+module.exports = require('./cartRoute');
+module.exports = require('./productRoute');
+module.exports = require('./categoryRoute');
+module.exports = require('./offerRoute');
+module.exports = require('./orderRoute');
+module.exports = require('./searchRoute');
+module.exports = require('./storeRoute');
